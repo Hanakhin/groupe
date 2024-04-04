@@ -1,7 +1,12 @@
 body {
-  background-color: red;
+  background: blue;
 }
 
 h1 {
-  color: blueviolet;
+  color: red;
+  scale: 5;
+}
+p {
+  font-size: 52px;
+  background: violet;
 }
