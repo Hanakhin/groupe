@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+h1 {
+    color: blue;
+}
+=======
 body {
   background: blue;
 }
@@ -10,3 +15,4 @@ p {
   font-size: 52px;
   background: violet;
 }
+>>>>>>> main
