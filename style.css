@@ -4,10 +4,15 @@ body {
 
 h1 {
   color: red;
-  scale: 5;
+  font-size: large;
 }
 
 p {
   font-size: 52px;
   background: violet;
+}
+
+li {
+  color: aqua;
+  font-size: 500px;
 }
